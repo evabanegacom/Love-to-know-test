@@ -1,0 +1,13 @@
+{
+  "name": "love-to-know",
+  "version": "1.0.0",
+  "description": "love to know technical test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Precious",
+  "license": "ISC"
+}
