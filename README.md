@@ -1,31 +1,108 @@
-# Sumfile
+# LOVE TO KNOW TEST
 
-### Description
-Write a production-ready function that sums the numbers in a file. The function will receive as input the path to a file. Each line of the file will contain either a number or a path to another file. For each file, output the file path and the sum of the numbers contained both directly in the file or in any of the sub files listed (or their sub files, etc).
+<!--
+*** Thanks for checking out this README Template. If you have a suggestion that would
+*** make this better, please fork the repo and create a pull request or simply open
+*** an issue with the tag "enhancement".
+*** Thanks again! Now go create something AMAZING! :D
+-->
 
-For example, if file A.txt contains:
-3
-19
-B.txt
-50
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 
-And file B.txt contains:
-C.txt
-27
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/evabanegacom/Love-to-know-test/">
+    <img src="https://github.com/evabanegacom/Love-to-know-test/blob/feature/src/images/JS.jpg" alt="Logo" width="80" height="80">
+  </a>
 
-And file C.txt contains:
-10
-2
+  <h3 align="center">Love to know</h3>
 
-The sum of A.txt and its subfiles is 111, sum for B.txt is 39, and sum for C.txt is 12.
+  <p align="center">
+    This is a technical test from Love to know.
+    <br />
+    <a href="https://github.com/evabanegacom/Love-to-know-test"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/evabanegacom/Love-to-know-test/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/evabanegacom/Love-to-know-test/issues">Request Feature</a>
+  </p>
+</p>
 
-Note that this is just an example. The solution should be able to handle any set of files as described in the problem statement.
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
 
-### How to run
+* [About the Project](#about-the-project)
+  * [Built With](#built-with)
+* [Contact](#Authors)
+* [Acknowledgements](#acknowledgements)
+* [How it works](#How-it-works)
 
-1. Clone this repo
-2. Go to root path and run:
+# Love-to-know-test
+A function to sum up numbers in files and their subfiles.
+
+## Built With
+
+- txt,
+- JavaScript
+- Vscode
+
+### Setup
+
+Clone the repository and follow the steps to run the app.
+```
+ git clone https://github.com/evabanegacom/Love-to-know-test.git
+
+ 2. Go to root path and run:
+
 ```sh
 FILE="A.txt" npm run start
 ```
-You can change the FILE value
+You can change the FILE value to any of the files you want could be B.text 
+
+```
+
+## Author
+👤 **Author**
+
+- Github: [@evabanegacom](https://github.com/evabanegacom)
+
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome! Start by:
+* Forking the project
+* Cloning the project to your local machine
+* `cd` into the project directory
+* Run `git checkout -b your-branch-name`
+* Make your contributions
+* Push your branch up to your forked repository
+
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/evabanegacom/Love-to-know-test.svg?style=flat-square
+[contributors-url]: https://github.com/evabanegacom/Love-to-know-test/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/evabanegacom/Love-to-know-testp.svg?style=flat-square
+[forks-url]: https://github.com/evabanegacom/Love-to-know-test/network/members
+[stars-shield]: https://img.shields.io/github/stars/evabanegacom/Love-to-know-test.svg?style=flat-square
+[stars-url]: https://github.com/evabanegacom/Love-to-know-test/stargazers
+[issues-shield]: https://img.shields.io/github/issues/evabanegacom/Love-to-know-test.svg?style=flat-square
+[issues-url]: https://github.com/evabanegacom/Love-to-know-test/issues
