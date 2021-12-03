@@ -95,14 +95,3 @@ Contributions, issues and feature requests are welcome! Start by:
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/evabanegacom/Love-to-know-test.svg?style=flat-square
-[contributors-url]: https://github.com/evabanegacom/Love-to-know-test/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/evabanegacom/Love-to-know-testp.svg?style=flat-square
-[forks-url]: https://github.com/evabanegacom/Love-to-know-test/network/members
-[stars-shield]: https://img.shields.io/github/stars/evabanegacom/Love-to-know-test.svg?style=flat-square
-[stars-url]: https://github.com/evabanegacom/Love-to-know-test/stargazers
-[issues-shield]: https://img.shields.io/github/issues/evabanegacom/Love-to-know-test.svg?style=flat-square
-[issues-url]: https://github.com/evabanegacom/Love-to-know-test/issues
