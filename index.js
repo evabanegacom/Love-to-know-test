@@ -26,6 +26,7 @@ prevTotal = 0;
     if (isFinite(splited[i])) {
       results[firstFile] += parseInt(splited[i], 10);
       results[file] = results[firstFile];
+      console.log(results[file])
     } else {
       prevTotal = results[firstFile];
       results[firstFile] = this.sumfile(splited[i], results)[firstFile];

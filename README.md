@@ -67,7 +67,7 @@ Clone the repository and follow the steps to run the app.
 
  2. Go to root path and run:
 
-```sh
+```
 FILE="A.txt" npm run start
 ```
 You can change the FILE value to any of the files you want could be B.text 
